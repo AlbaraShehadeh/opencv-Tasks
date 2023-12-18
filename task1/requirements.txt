@@ -1,9 +1,0 @@
-opencv-contrib-python
-numpy
-matplotlib
-imutils
-scikit-image
-scikit-learn
-cmake
-SimpleITK
-MedPy
